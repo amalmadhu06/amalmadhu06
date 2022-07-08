@@ -34,23 +34,29 @@
 
 <!-- - ⚡ Fun fact **That DB in the username is not database :P** -->
 ---
-### Technologies
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React.js](https://img.shields.io/badge/-React.js-000?&logo=react.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=graphql&?color=#FFFFFF)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+<div align='center'>
 
----
+# 💻 Tech Stack:
 
-### Languages
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+<br/> 
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML&?color=#FFFFFF)
-[![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=css)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+<br/> 
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+</div>
 
 ---
 
@@ -65,8 +71,18 @@
 </p>
 
 ---
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amalmadhu06&theme=radical" alt="amalmadhu06" width="400" /></p></p>
-<br>
 
-<p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=amalmadhu06&show_icons=true&locale=en&theme=blue-green" alt="amalmadhu06" width="400" /></p>  </p>
+<div align='center'>
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=amalmadhu06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amalmadhu06&theme=dark&hide_border=false)<br/>
+
+<!-- enable this section if you want to show the most used language -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalmadhu06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+### ✍️ Dev Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
