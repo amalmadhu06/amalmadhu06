@@ -4,25 +4,25 @@
 </div>
 
 <h1 align ="center">Hi 👋, I'm Amal Madhu</h1>
-<h3 align ="center">Software Developer from India</h3>
+<h3 align ="center">Go Lang Developer</h3>
 <br>
 <p align ="left"> <img src="https://komarev.com/ghpvc/?username=amalmadhu06&label=Profile%20views&color=0e75b6&style=flat" alt="amalmadhu06" /> </p>
 
- 📄  [Download My Resume](https://tuition-class.com)
+ 📄  [Download My Resume](https://github.com/amalmadhu06)
 <br>
 -
 ---------
-- 🔭 My last project was - An Online Tuition Plaform [Tuition Class](https://tuition-class.com)  
+- 🔭 My last project was -  [Coming Soon...](https://github.com/amalmadhu06)  
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 I’m currently learning **Back-end Development with Go Lang**
 
 - 👯 I’m having 1 year of corporate experience working in India's top techonolgy firm
 
 - 🤝 I’m looking for a new role as Software Developer or Backend Developer 
 
--  🔭 My expertise is in JavaScript and Node.js
+-  🔭 My expertise is in Go Lang and I'm comfirtable learning any technology
 
-- 👨‍💻 Visit my website. [https://amalmadhu.com - (Inactive)](https://amalmadhu.com)
+- 👨‍💻 Visit my website [Click Here](https://amalmadhu06.github.io/Portfolio-Website/#)
 
 <!-- - 📝 I regulary write articles on [https://medium.com/@amalmadhu06](https://medium.com/@amalmadhu06) -->
 
@@ -32,7 +32,6 @@
 
 - 📄 Know about my experiences [Resume - link will be added soon]()
 
-<!-- - ⚡ Fun fact **That DB in the username is not database :P** -->
 ---
 
 <div align='center'>
