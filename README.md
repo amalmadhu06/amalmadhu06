@@ -14,7 +14,7 @@
 ---------
 - 🔭 My last project was -  [Coming Soon...](https://github.com/amalmadhu06)  
 
-- 🌱 I’m currently learning **Back-end Development with Go Lang**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👯 I’m having 1 year of corporate experience working in India's top techonolgy firm
 
