@@ -5,7 +5,6 @@
 
 <h1 align ="center">Hi 👋, I'm Amal Madhu</h1>
 <h3 align ="center">Go Lang Developer</h3>
--[Click Here](https://amalmadhu06.github.io/Portfolio-Website/#)
 <h3 align ="center"></h3>
 <br>
 <p align ="left"> <img src="https://komarev.com/ghpvc/?username=amalmadhu06&label=Profile%20views&color=0e75b6&style=flat" alt="amalmadhu06" /> </p>
