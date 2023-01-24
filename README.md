@@ -5,22 +5,23 @@
 
 <h1 align ="center">Hi 👋, I'm Amal Madhu</h1>
 <h3 align ="center">Go Lang Developer</h3>
+-[Click Here](https://amalmadhu06.github.io/Portfolio-Website/#)
+<h3 align ="center"></h3>
 <br>
 <p align ="left"> <img src="https://komarev.com/ghpvc/?username=amalmadhu06&label=Profile%20views&color=0e75b6&style=flat" alt="amalmadhu06" /> </p>
 
- 📄  [Download My Resume](https://github.com/amalmadhu06)
 <br>
--
+
 ---------
-- 🔭 My last project was -  [Coming Soon...](https://github.com/amalmadhu06)  
+- 🔭 I'm currently building an E-commerce Web API  using Go
 
-- 🌱 I’m currently learning **Go Lang**
+- 🌱 I'm learning **Go Lang**
 
-- 👯 I’m having 1 year of corporate experience working in India's top techonolgy firm
+- 👯 I’m having 1 year of corporate experience working in India's top technology firm
 
 - 🤝 I’m looking for a new role as Software Developer or Backend Developer 
 
--  🔭 My expertise is in Go Lang and I'm comfirtable learning any technology
+-  🔭 My expertise is in Go Lang, and I'm comfortable learning any technology
 
 - 👨‍💻 Visit my website [Click Here](https://amalmadhu06.github.io/Portfolio-Website/#)
 
@@ -30,7 +31,7 @@
 
 - 📫 How to reach me **madhuamal06@gmail.com**
 
-- 📄 Know about my experiences [Resume - link will be added soon]()
+- 📄 Know about my experiences [Resume](https://amalmadhu06.github.io/Portfolio-Website/#)
 
 ---
 
@@ -38,22 +39,33 @@
 
 # 💻 Tech Stack:
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 <br/> 
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-<br/> 
+[//]: # (![NPM]&#40;https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&#41; )
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
 
 </div>
 
@@ -75,7 +87,6 @@
 
 # 📊 Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=amalmadhu06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amalmadhu06&theme=dark&hide_border=false)<br/>
 
 <!-- enable this section if you want to show the most used language -->
